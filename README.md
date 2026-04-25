@@ -163,8 +163,12 @@ RDS-Metrics-Exporter/
 
 ## 👤 Author
 
-**Bhushan Koli** — AWS Cloud Engineer
-🔗 [GitHub](https://github.com/bhushankoli-dev) | 📍 Pune, India
+**Bhushan Koli** — Cloud Engineer
+
+[![GitHub](https://img.shields.io/badge/GitHub-bhushankoli--dev-181717?logo=github)](https://github.com/bhushankoli-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhushan%20Koli-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhushan-koli)
+
+📍 Pune, India
 
 ---
 
